@@ -1,0 +1,21 @@
+{
+  "name": "textsummarizer",
+  "version": "0.0.1",
+  "authors": [
+    "williamharmer7 <william.harmer@gmail.com>"
+  ],
+  "description": "text summarizer client side",
+  "main": "app.js",
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.6.4",
+    "ember": "~1.0.0"
+  }
+}
